@@ -1,0 +1,6 @@
+_____________
+input <- a, b
+c = 0
+when a<b, c=False
+when a>b, c=True
+output -> c
