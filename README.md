@@ -11,11 +11,11 @@ It's very easy! Execute:
 ... and done!
 ### Hello World (sum calculator).
 Create file sum.dsemil and write code:
-<code>{ Calculator of sum a + b = c, where a, b — summands and c — sum }
+<br><code>{ Calculator of sum a + b = c, where a, b — summands and c — sum }
 _____________
 input <- a, b
 	c = a + b
-output -> c</code>
+output -> c</code><br>
 Then write in Terminal:
-<code>python3 DSEMILEngine.py sum.py</code>
+<br><code>python3 DSEMILEngine.py sum.py</code>
 ... and execute this command. Write values of a and b and rejoice :)
