@@ -21,3 +21,5 @@ Create file sum.dsemil and write code:
 Then write in Terminal:
 <br><code>python3 DSEMILEngine.py sum.py</code><br>
 ... and execute this command. Write values of a and b and rejoice :)
+## Examples.
+See folder examples/ for more examples.
