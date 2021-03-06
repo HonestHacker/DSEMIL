@@ -11,11 +11,13 @@ It's very easy! Execute:<br>
 ... and done!
 ### Hello World (sum calculator).
 Create file sum.dsemil and write code:
-	{ Калькулятор суммы a + b = c, где a, b — слагаемые, а c — сумма. }
+
+	{ Calculator of sum a + b = c, where a, b — summands and c — sum. }
 	_____________
 	input <- a, b
 		c = a + b
 	output -> c
+
 Then write in Terminal:
 <br><code>python3 DSEMILEngine.py sum.py</code><br>
 ... and execute this command. Write values of a and b and rejoice :)
