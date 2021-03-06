@@ -1,6 +1,7 @@
+{ WHEN operator example (a>b?) }
 _____________
 input <- a, b
 c = 0
-when a<b, c=False
-when a>b, c=True
+	when a>b, c=1
+	when a<b, c=0
 output -> c
