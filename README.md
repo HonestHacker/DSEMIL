@@ -3,7 +3,7 @@ De Situ Exec Maths Instruction Language
 ## Author.
 Copyright © Makar Kuznetsov (2021)
 All rights reserved.
-Telegram: https://t.me/rai_programmista
+Telegram: https://t.me/rai_programmista.
 License is GNU GPL v3 (see file LICENSE for more information)
 ## Getting Started.
 ### Install DSEMIL.
