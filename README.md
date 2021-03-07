@@ -7,8 +7,10 @@ Telegram: https://t.me/rai_programmista.
 License is GNU GPL v3 (see file LICENSE for more information)
 ## Getting Started.
 ### Install DSEMIL.
-It's very easy! Execute:<br>
-<code>git clone https://github.com/HonestHacker/DSEMIL.git</code><br>
+It's very easy! Execute:
+
+	git clone https://github.com/HonestHacker/DSEMIL.git
+
 ... and done!
 ### Hello World (sum calculator).
 Create file sum.dsemil and write code:
